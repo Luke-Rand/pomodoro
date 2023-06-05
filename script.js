@@ -1,5 +1,4 @@
-//const timer = 25;
+const countdownTimer = (currentTime) => {
 
-const timer = document.getElementById("timer-countdown");
+}
 
-console.log(timer.outerText);
